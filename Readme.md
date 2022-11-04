@@ -3,7 +3,7 @@
 labs files and codes.<br>
 **Contact me:** 1913184@mail.nankai.edu.cn
 
-Updated on Oct 21st (lab01-lab04)
+Updated on Nov 4th (lab05)
 #### Labs
 - lab01:
   - 
@@ -42,3 +42,10 @@ Updated on Oct 21st (lab01-lab04)
     ```
   - **code：**[lab04.cpp](lab/lab04/lab04.cpp)
   - **result：** *lab/lab04/res.mp4*   ![res](lab/lab04/res.png) 
+- lab05：
+  - 
+    ```
+    Cyrus-Beck
+    ```
+  - **code：**[lab05.cpp](lab/lab05/lab05.cpp)
+  - **result：** *lab/lab05/res.mp4*  ![res](lab/lab05/res.png)
