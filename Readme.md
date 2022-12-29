@@ -3,7 +3,25 @@
 labs files and codes.<br>
 **Contact me:** 1913184@mail.nankai.edu.cn
 
-Updated on Dec 9th (lab10_11)
+Updated on Dec29th(Final)
+All Done!!!
+#### Final
+**计算机图形学期末大作业——照明模型与纹理**
+- code
+    - img: 包含Texture中使用的纹理图片
+    - Light: 照明模型
+        - Light.cpp: 源代码
+        - Light.h: 头文件
+        - Light.exe: 可执行文件
+    - Texture: 纹理
+        - stb_image.h/stb_image_resize.h/stb_image_write.h: Texture中使用的stb_image库。（https://github.com/nothings/stb）
+        - Texture.cpp：源代码
+        - Texture.exe: 可执行文件
+- 1913184+韦诗睿+照明模型与纹理期末大作业报告.pdf
+- readme.txt
+- Light.mp4 & Texture.mp4：视频演示效果
+
+
 #### Labs
 - lab01:
   - 
